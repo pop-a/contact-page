@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#contact-form{
+	margin-top: 25vh;
+	border-left: 2px solid orange;
+	border-top: 2px solid orange;
+	border-right: 2px solid blue;
+	border-bottom: 2px solid blue;
+}

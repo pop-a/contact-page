@@ -1,0 +1,35 @@
+{
+  "name": "test-tech_medgo",
+  "version": "1.0.0",
+  "description": "This template is intended as a project starter for testing:\r - [ ] your motivation for joining an awesome startup :)\r - [ ] your competence (either you master react and sails) or your ability to learn new technologies (or you don't)\r - [ ] your code quality\r - [ ] your sense of UX/UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisrydahl/testApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisrydahl/testApp/issues"
+  },
+  "homepage": "https://github.com/chrisrydahl/testApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "2.2.33",
+    "nodemailer": "^4.6.8",
+    "axios": "^0.18.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
